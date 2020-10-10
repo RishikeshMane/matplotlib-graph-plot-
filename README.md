@@ -1,2 +1,2 @@
 # matplotlib-graph-plot-
-Graphs Ploting using Matplotlib Pandas.
+Graphs Ploting // Data visualization using Matplotlib Pandas.
